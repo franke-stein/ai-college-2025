@@ -1,0 +1,30 @@
+﻿AI Tool Usage Documentation
+==========================
+1. Grok (xAI)
+- Purpose: Drafted white paper, generated HTML structure, synthesized research data.
+- Prompt Example: "Write a 1,500-word white paper on U.S. college students’ AI usage in 2025, using recent data from Pew Research and EDUCAUSE, ensuring original phrasing to avoid AI detection."
+- Output: White paper text, HTML code.
+
+
+2. Python (Matplotlib)
+- Purpose: Created bar chart for AI usage frequency.
+- Code Example: [See Matplotlib code above].
+- Output: assets/ai_usage_frequency.png.
+
+
+3. Canva
+- Purpose: Designed pie chart, infographic, and comparison visual.
+- Usage: Input Pew Research data for pie chart; used DALL·E icons for infographic; created 2023 vs. 2024 comparison.
+- Output: assets/demographic_ai_use.png, assets/ai_use_cases_infographic.png, assets/comparison_2023_2024.png.
+
+
+4. DALL·E
+- Purpose: Generated icons for infographic.
+- Prompt Example: "Generate flat-design icons for academic brainstorming and research."
+- Output: Icons used in Canva infographic.
+
+
+5. Gemini Advanced Pro 1.5
+- Purpose: Summarized survey data from multiple sources.
+- Prompt Example: "Summarize 2023–2025 data on AI tool usage by U.S. college students."
+- Output: Condensed data points for white paper.
